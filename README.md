@@ -1,7 +1,9 @@
 # Book Search Engine
  
  - Updated server.js
+ 
  -fixed some bugs in package.json
+ 
  -deployment not available yet
 
 ## User Story
@@ -46,8 +48,3 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button  
 ```
-
-
-
-![The Viewing Lernantino's Books page shows the books that the user Lernaninto has saved.](./Assets/21-mern-homework-demo-03.gif)
-
